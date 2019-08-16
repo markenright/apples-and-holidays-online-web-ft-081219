@@ -74,6 +74,7 @@ def all_supplies_in_holidays(holiday_hash)
           chr = " "
         end
       end
+      end
      
       puts "  #{temp_holiday}: #{temp_list}"
       
