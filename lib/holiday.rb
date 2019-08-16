@@ -70,7 +70,7 @@ def all_supplies_in_holidays(holiday_hash)
       temp_holiday = holiday.to_s.capitalize
       temp_list = list.join(', ')
       
-      end
+      
      
       puts "  #{temp_holiday}: #{temp_list}"
       
